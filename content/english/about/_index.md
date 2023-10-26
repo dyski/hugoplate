@@ -1,3 +1,4 @@
+---
 title: "Exploring The Cornish Ordinalia: A Medieval Cornish Treasure"
 meta_title: "About The Cornish Ordinalia"
 description: "Delve into the rich narrative, historical significance, and enduring legacy of The Cornish Ordinalia, a trilogy of medieval religious plays from Cornwall."
