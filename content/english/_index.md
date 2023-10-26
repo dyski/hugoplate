@@ -1,53 +1,51 @@
 ---
-# Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  title: "Exploring The Cornish Ordinalia: A Medieval Treasure"
+  content: "Delve into the rich narrative, historical significance, and enduring legacy of The Cornish Ordinalia, a remarkable trilogy of medieval religious plays from Cornwall."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Begin Your Exploration"
+    link: "/about"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
-    image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+  - title: "Discover the Historical Landscape"
+    image: "/images/feature-1.png"
+    content: "The 14th century marked a vibrant era of Cornish culture. Discover the historical and cultural landscape from whence The Cornish Ordinalia sprung."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
-
-  - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-    bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Rich Historical Context"
+      - "Cornish Language and Identity"
+      - "Ecclesiastical Influence"
+      - "Communal Performance Tradition"
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      label: "Learn More"
+      link: "/chapters#Chapter-II"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+  - title: "Delve into The Linguistic Peculiarities"
+    image: "/images/feature-2.png"
+    content: "The linguistic fabric of The Cornish Ordinalia is a gateway to the lexical and syntactic choices characteristic of Middle Cornish."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Lexical Enrichment"
+      - "Middle Cornish Syntax and Morphology"
+      - "Dialectal Variations"
+      - "Latin Infusions"
     button:
-      enable: false
-      label: ""
-      link: ""
+      enable: true
+      label: "Learn More"
+      link: "/chapters#Chapter-III"
+
+  - title: "Experience the Theological Narrative"
+    image: "/images/feature-3.png"
+    content: "The theological narrative within The Cornish Ordinalia ventures beyond the biblical canon, into apocryphal and legendary realms."
+    bulletpoints:
+      - "Christian Doctrine of Salvation"
+      - "Marian Devotion"
+      - "Apocryphal Elements"
+      - "Medieval Christian Theological Debates"
+    button:
+      enable: true
+      label: "Learn More"
+      link: "/chapters#Chapter-IV"
 ---
