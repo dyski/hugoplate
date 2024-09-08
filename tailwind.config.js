@@ -98,5 +98,6 @@ module.exports = {
         5: "3rem",
       },
     }),
+    require('daisyui'),
   ],
 };
